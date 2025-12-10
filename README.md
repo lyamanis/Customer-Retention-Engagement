@@ -87,4 +87,4 @@ Chat and email systems should be updated so that customers can get faster replie
 Most of our services have high number of problems. We should improve those through staff training and clearer help materials.
 
 ## Tool: Excel
-If you want to access the process of analysis, you can read it on [here](https://github.com/lyamanis/Customer-Retention-Engagement/blob/main/documentation.docx]).
+If you want to access the process of analysis, you can read it on [here](https://github.com/lyamanis/Customer-Retention-Engagement/blob/main/documentation.docx).
